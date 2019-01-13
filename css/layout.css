@@ -978,7 +978,6 @@ fieldset[disabled] .btn-theme {
   font-weight: 700;
   color: #fff;
   line-height: 1.1;
-  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {
