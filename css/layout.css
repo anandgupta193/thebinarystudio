@@ -43,6 +43,13 @@ p {
   margin-bottom: 15px;
 }
 
+ul li {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Hind, sans-serif;
+  color: #a6a7aa;
+}
+
 em,
 li,
 li a {
