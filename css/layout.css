@@ -406,6 +406,10 @@ fieldset[disabled] .btn-theme {
   margin-bottom: 30px;
 }
 
+.service .adjust {
+  	width: 45px;	
+}
+
 .service:hover .service-element {
   opacity: 0;
   -webkit-transform: translate3d(0, -100%, 0);
