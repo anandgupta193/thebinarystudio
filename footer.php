@@ -23,18 +23,18 @@
                             <!-- <li class="footer-list-item"><a class="footer-list-link" href="#">Twitter</a></li> -->
                             <li class="footer-list-item"><a class="footer-list-link" href="https://www.facebook.com/thebinarystudio/">Facebook</a></li>
                             <li class="footer-list-item"><a class="footer-list-link" href="https://www.instagram.com/the_binary_studio/">Instagram</a></li>
-                            <li class="footer-list-item"><a class="footer-list-link" href="#">LinkedIn</a></li>
+                            <li class="footer-list-item"><a class="footer-list-link" href="https://www.linkedin.com/company/the-binary-studio/about/">LinkedIn</a></li>
                         </ul>
                         <!-- End List -->
                     </div>
-                    <div class="col-sm-5 sm-margin-b-30">
+                    <div id="contact-form" class="col-sm-5 sm-margin-b-30">
                         <h2 class="color-white">Send Us A Query</h2>
-                        <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+                        <form method="POST" onsubmit="sendEmail(event)">
                             <input type="text" name="name" maxlength="50" class="form-control footer-input margin-b-20" placeholder="Enter your name" required>
                             <input type="email" maxlength="80" name="email" class="form-control footer-input margin-b-20" placeholder="Enter your email" required>
-                            <input type="number" maxlength="10" name="ph_no" class="form-control footer-input margin-b-20" placeholder="Enter your phone number" required>
+                            <input type="number" minlength="10" name="ph_no" class="form-control footer-input margin-b-20" placeholder="Enter your phone number" required>
                             <textarea name="query" maxlength="250" class="form-control footer-input margin-b-30" rows="6" placeholder="Ask a query" required></textarea>
-                            <button type="submit" class="btn-theme btn-theme-sm btn-base-bg text-uppercase">Submit</button>
+                            <button id="load" data-loading-text="<i class='fa fa-spinner fa-spin '></i> Sending Email" type="submit" class="btn-theme btn-theme-sm btn-base-bg text-uppercase">Submit</button>
                         </form>
                     </div>
                 </div>
@@ -59,56 +59,27 @@
         <!-- End Copyright -->
     </footer>
 
-    <?php
-    
-    error_reporting(-1);
-    ini_set('display_errors', 'On');
-    set_error_handler("var_dump");
-
-    if(isset($_POST['email'])) {
-        $email_to = "mail.thebinarystudio@gmail.com";
-        $email_subject = "Query - The Binary Studio";
-
-//         if(isset($_POST['name']) ||
-//         isset($_POST['email']) ||
-//         isset($_POST['ph_no']) ||
-//         isset($_POST['query'])) {
-//         die();     
-//         }
-
-        function clean_string($string) {
-            $bad = array("content-type","bcc:","to:","cc:","href");
-            return str_replace($bad,"",$string);
-        }
-
-        $name = $_POST['name']; // required
-        $email = $_POST['email']; // required
-        $telephone = $_POST['ph_no']; // not required
-        $query = $_POST['query']; // required
-
-
-        $email_message= "Hi Prashant, "."\n\n";
-        $email_message .= "You got a new query!, "."\n\n";
-
-        $email_message .= "First Name: ".clean_string($name)."\n";
-        $email_message .= "Email: ".clean_string($email)."\n";
-        $email_message .= "Telephone: ".clean_string($telephone)."\n";
-        $email_message .= "Comments: ".clean_string($query)."\n";
-
-        $email_message .= "Regards, "."\n";
-        $email_message .= "The Binary Studio, "."\n\n";
-
-        // create email headers
-        $headers = 'From: '.$email."\r\n".
-        'Reply-To: '.$email."\r\n" .
-        'X-Mailer: PHP/' . phpversion();
-        $response = @mail($email_to, $email_subject, $email_message, $headers);
-        if($response == true) {
-            echo "Message sent successfully...";
-        } else {
-            echo "Message could not be sent...";
-        }
-
+    <script>
+    function sendEmail(e) {
+        e.preventDefault();
+        $('#load').button('loading');
+        $.ajax({
+            url: 'sendEmail.php',
+            type: 'POST',
+            data: {
+                name: e.target.name.value,
+                email: e.target.email.value,
+                ph_no: e.target.ph_no.value,
+                query: e.target.query.value
+            },
+            success: function(resp) {
+                $('#load').button('reset');
+                if(resp === 'success'){
+                    document.getElementById("contact-form").innerHTML = "<h2 style=\"color: #cbd3e1;\">Thank you for contacting us.</h2><h5 style=\"color: #cbd3e1;\">Our team will get back to you shortly.</h5>";
+                } else {
+                    alert('Error Occured, Please try again after some time.');
+                }
+            }
+        }); 
     }
-
-    ?>
+    </script>
