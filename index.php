@@ -141,7 +141,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img//icons/Icon-Architecture.png" class="service-icon adjust"></img>
+                                <img src="./img//icons/Icon-Architecture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Architectural Design</h3>
@@ -160,7 +160,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".2s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Construction.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Construction.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Construction Administration</h3>
@@ -179,7 +179,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Interior.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Interior.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Interior Design</h3>
@@ -201,7 +201,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Sustainable.png" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.png">
+                                <img src="./img/icons/Icon-Sustainable.jpg" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.jpg">
                             </div>
                             <div class="service-info">
                                 <h3>Sustainable Design</h3>
@@ -222,7 +222,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-furniture.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-furniture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Furniture Design</h3>
@@ -244,7 +244,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".6s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Visual Merchandising.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Visual Merchandising.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Commercial Visual Merchandising</h3>
@@ -270,8 +270,8 @@
         <div class="row margin-b-40">
             <div class="col-sm-6">
                 <h2>Projects</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna
-                    aliqua enim minim veniam exercitation</p>
+                <!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna
+                    aliqua enim minim veniam exercitation</p> -->
             </div>
         </div>
         <!--// end row -->
@@ -284,10 +284,21 @@
                         <img class="img-responsive" src="img/970x647/01.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a href="projects.php">Vinay Residence</a> <span class="text-uppercase margin-l-20">Thane</span></h4>
+                <p>
+                The Residence situated in the beautifully developed campus of Hiranandani estate Thane. The openness in the layout planning and light colors in the interiors really makes the space more breathable.
+                </p>
+                <div class="more-desc">
+                Provision of the wide clean clear window allows more natural lights to come in. 
+                A simple white ceiling and white TV back panel with the diffuse light make the movie experience more enjoyable.
+                    <ul>
+                        <li>Project Location - Hiranandani Thane</li>
+                        <li>Project Scale - 1650 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
             <!-- End Projects -->
 
@@ -298,10 +309,20 @@
                         <img class="img-responsive" src="img/970x647/02.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a href="projects.php">Kolhapur Residence</a> <span class="text-uppercase margin-l-20">Ichalkaranji</span></h4>
+                <p>
+                    The project is still on the construction stage but the concept is based on the  amalgmation of  modern and traditional element of design. The designed space really improve the user experience starting from entering into the house till you go to terrace level.
+                </p>
+                <div class="more-desc">
+                A double height living area with a simple white ceiling with the chandelier put the room into a light to define the room even more beautifully.
+                    <ul>
+                        <li>Project Location - Ichalkaranji</li>
+                        <li>Project Scale - 4200 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
             <!-- End Projects -->
 
@@ -312,10 +333,20 @@
                         <img class="img-responsive" src="img/970x647/03.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a href="projects.php">Allahabad Residence</a> <span class="text-uppercase margin-l-20">Prayagraj</span></h4>
+                <p>
+                The site area of this upcoming residence is 1800 sqft. In this single-family residence, it has an office, parking , and 4 bedrooms. 
+                </p>
+                <div class="more-desc">
+                A small courtyard in the building keeps every corner of the interior space fills with natural light in the day time. To highlight the corner-front facade of the building is proposed with the dark stone cladding within contrasting with other exteriors.
+                    <ul>
+                        <li>Project Location - Prayagraj</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
             <!-- End Projects -->
         </div>
@@ -500,8 +531,8 @@
             <div class="row margin-b-40">
                 <div class="col-sm-6">
                     <h2>Sketch & Graphics</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore
-                        magna aliqua enim minim veniam exercitation</p>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore
+                        magna aliqua enim minim veniam exercitation</p> -->
                 </div>
             </div>
             <!--// end row -->
@@ -516,10 +547,10 @@
                             <img class="full-width img-responsive" src="img/800x400/01.jpg" alt="Portfolio Image">
                         </div>
                         <div class="work-content">
-                            <h3 class="color-white margin-b-5">Art Of Coding</h3>
-                            <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                            <h3 class="color-white margin-b-5">Wada Farmhouse</h3>
+                            <p class="color-white margin-b-0">Maharashtra</p>
                         </div>
-                        <a class="content-wrapper-link" href="#"></a>
+                        <a class="content-wrapper-link"></a>
                     </div>
                     <!-- End Work -->
                 </div>
@@ -530,10 +561,10 @@
                             <img class="full-width img-responsive" src="img/397x400/01.jpg" alt="Portfolio Image">
                         </div>
                         <div class="work-content">
-                            <h3 class="color-white margin-b-5">Clean Design</h3>
-                            <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                            <h3 class="color-white margin-b-5">Graphics</h3>
+                            <!-- <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p> -->
                         </div>
-                        <a class="content-wrapper-link" href="#"></a>
+                        <a class="content-wrapper-link"></a>
                     </div>
                     <!-- End Work -->
                 </div>
@@ -544,10 +575,10 @@
                             <img class="full-width img-responsive" src="img/397x300/01.jpg" alt="Portfolio Image">
                         </div>
                         <div class="work-content">
-                            <h3 class="color-white margin-b-5">Clean Design</h3>
-                            <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                            <h3 class="color-white margin-b-5">Mixed Use Development</h3>
+                            <!-- <p class="color-white margin-b-0">Worli</p> -->
                         </div>
-                        <a class="content-wrapper-link" href="#"></a>
+                        <a class="content-wrapper-link"></a>
                     </div>
                     <!-- End Work -->
                 </div>
@@ -558,10 +589,10 @@
                             <img class="full-width img-responsive" src="img/397x300/02.jpg" alt="Portfolio Image">
                         </div>
                         <div class="work-content">
-                            <h3 class="color-white margin-b-5">Clean Design</h3>
-                            <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                            <h3 class="color-white margin-b-5">Social Mass Housing</h3>
+                            <p class="color-white margin-b-0">Worli</p>
                         </div>
-                        <a class="content-wrapper-link" href="#"></a>
+                        <a class="content-wrapper-link"></a>
                     </div>
                     <!-- End Work -->
                 </div>
@@ -572,10 +603,52 @@
                             <img class="full-width img-responsive" src="img/397x300/03.jpg" alt="Portfolio Image">
                         </div>
                         <div class="work-content">
-                            <h3 class="color-white margin-b-5">Clean Design</h3>
-                            <p class="color-white margin-b-0">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                            <h3 class="color-white margin-b-5">Social Mass Housing</h3>
+                            <p class="color-white margin-b-0">Worli</p>
                         </div>
-                        <a class="content-wrapper-link" href="#"></a>
+                        <a class="content-wrapper-link"></a>
+                    </div>
+                    <!-- End Work -->
+                </div>
+                <div class="masonry-grid-item col-xs-6 col-sm-6 col-md-4">
+                    <!-- Work -->
+                    <div class="work wow fadeInUp" data-wow-duration=".3" data-wow-delay=".3s">
+                        <div class="work-overlay">
+                            <img class="full-width img-responsive" src="img/397x300/04.jpg" alt="Portfolio Image">
+                        </div>
+                        <div class="work-content">
+                            <h3 class="color-white margin-b-5">Sketches</h3>
+                            <!-- <p class="color-white margin-b-0">Worli</p> -->
+                        </div>
+                        <a class="content-wrapper-link"></a>
+                    </div>
+                    <!-- End Work -->
+                </div>
+                <div class="masonry-grid-item col-xs-6 col-sm-6 col-md-4">
+                    <!-- Work -->
+                    <div class="work wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
+                        <div class="work-overlay">
+                            <img class="full-width img-responsive" src="img/397x300/05.jpg" alt="Portfolio Image">
+                        </div>
+                        <div class="work-content">
+                            <h3 class="color-white margin-b-5">Sketches</h3>
+                            <!-- <p class="color-white margin-b-0">Worli</p> -->
+                        </div>
+                        <a class="content-wrapper-link"></a>
+                    </div>
+                    <!-- End Work -->
+                </div>
+                <div class="masonry-grid-item col-xs-6 col-sm-6 col-md-4">
+                    <!-- Work -->
+                    <div class="work wow fadeInUp" data-wow-duration=".3" data-wow-delay=".5s">
+                        <div class="work-overlay">
+                            <img class="full-width img-responsive" src="img/397x300/06.jpg" alt="Portfolio Image">
+                        </div>
+                        <div class="work-content">
+                            <h3 class="color-white margin-b-5">Graphics</h3>
+                            <!-- <p class="color-white margin-b-0">Worli</p> -->
+                        </div>
+                        <a class="content-wrapper-link"></a>
                     </div>
                     <!-- End Work -->
                 </div>
@@ -612,6 +685,7 @@
 
     <!-- PAGE LEVEL SCRIPTS -->
     <script src="js/layout.js" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
     <script src="js/components/wow.min.js" type="text/javascript"></script>
     <script src="js/components/swiper.min.js" type="text/javascript"></script>
     <script src="js/components/masonry.min.js" type="text/javascript"></script>

@@ -88,8 +88,8 @@
     <div class="parallax-window" data-parallax="scroll" data-image-src="img/1920x1080/01.jpg">
         <div class="parallax-content container">
             <h1 class="carousel-title">Our Services</h1>
-            <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
-                venumus dolore</p>
+            <!-- <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
+                venumus dolore</p> -->
         </div>
     </div>
     <!--========== PARALLAX ==========-->
@@ -105,7 +105,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img//icons/Icon-Architecture.png" class="service-icon adjust"></img>
+                                <img src="./img//icons/Icon-Architecture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Architectural Design</h3>
@@ -124,7 +124,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".2s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Construction.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Construction.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Construction Administration</h3>
@@ -143,7 +143,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Interior.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Interior.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Interior Design</h3>
@@ -165,7 +165,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Sustainable.png" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.png">
+                                <img src="./img/icons/Icon-Sustainable.jpg" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.jpg">
                             </div>
                             <div class="service-info">
                                 <h3>Sustainable Design</h3>
@@ -186,7 +186,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-furniture.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-furniture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Furniture Design</h3>
@@ -208,7 +208,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".6s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Visual Merchandising.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Visual Merchandising.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Commercial Visual Merchandising</h3>

@@ -88,8 +88,8 @@
     <div class="parallax-window" data-parallax="scroll" data-image-src="img/1920x1080/01.jpg">
         <div class="parallax-content container">
             <h1 class="carousel-title">Projects</h1>
-            <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
-                venumus dolore</p>
+            <!-- <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
+                venumus dolore</p> -->
         </div>
     </div>
     <!--========== PARALLAX ==========-->
@@ -99,100 +99,164 @@
     <div class="content-lg container">
         <div class="row margin-b-40">
             <div class="col-sm-6">
-                <h2>Our Exceptional Solutions</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna
-                    aliqua enim minim veniam exercitation</p>
+                <h2>Our Work</h2>
+                <!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna
+                    aliqua enim minim veniam exercitation</p> -->
             </div>
         </div>
         <!--// end row -->
 
         <div class="row margin-b-50">
-            <!-- Our Exceptional Solutions -->
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/01.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/01.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h3><a href="#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a>Vinay Residence</a> <span class="text-uppercase margin-l-20">Thane</span></h4>
+                <p>
+                The Residence situated in the beautifully developed campus of Hiranandani estate Thane. The openness in the layout planning and light colors in the interiors really makes the space more breathable.
+                </p>
+                <div class="more-desc">
+                Provision of the wide clean clear window allows more natural lights to come in. 
+                A simple white ceiling and white TV back panel with the diffuse light make the movie experience more enjoyable.
+                    <ul>
+                        <li>Project Location - Hiranandani Thane</li>
+                        <li>Project Scale - 1650 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
-            <!-- End Our Exceptional Solutions -->
+            <!-- End Projects -->
 
-            <!-- Our Exceptional Solutions -->
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/02.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/02.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a>Kolhapur Residence</a> <span class="text-uppercase margin-l-20">Ichalkaranji</span></h4>
+                <p>
+                    The project is still on the construction stage but the concept is based on the  amalgmation of  modern and traditional element of design. The designed space really improve the user experience starting from entering into the house till you go to terrace level.
+                </p>
+                <div class="more-desc">
+                A double height living area with a simple white ceiling with the chandelier put the room into a light to define the room even more beautifully.
+                    <ul>
+                        <li>Project Location - Ichalkaranji</li>
+                        <li>Project Scale - 4200 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
-            <!-- End Our Exceptional Solutions -->
+            <!-- End Projects -->
 
-            <!-- Our Exceptional Solutions -->
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/03.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/03.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a>Allahabad Residence</a> <span class="text-uppercase margin-l-20">Prayagraj</span></h4>
+                <p>
+                The site area of this upcoming residence is 1800 sqft. In this single-family residence, it has an office, parking , and 4 bedrooms. 
+                </p>
+                <div class="more-desc">
+                A small courtyard in the building keeps every corner of the interior space fills with natural light in the day time. To highlight the corner-front facade of the building is proposed with the dark stone cladding within contrasting with other exteriors.
+                    <ul>
+                        <li>Project Location - Prayagraj</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
-            <!-- End Our Exceptional Solutions -->
+            <!-- End Projects -->
         </div>
         <!--// end row -->
 
         <div class="row">
-            <!-- Our Exceptional Solutions -->
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/01.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/04.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a>Almora Resort</a> <span class="text-uppercase margin-l-20">Almora</span></h4>
+                <p>
+                The site has a 15 m contour difference from the lowest point to highest point. We tried to minimize the cut and fill method just to retain the natural topography.
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Almora</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
-            <!-- End Our Exceptional Solutions -->
+            <!-- End Projects -->
 
-            <!-- Our Exceptional Solutions -->
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/02.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/05.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
-            </div>
-            <!-- End Our Exceptional Solutions -->
+                <h4><a>Vasundhara Residence</a> <span class="text-uppercase margin-l-20">Ghaziabad</span></h4>
+                <p>
+                The design starts from scratch with a vacant plot on the streets of sector 16A Vasundhra. There is a green belt just in front of the plot makes the site location more interesting.
+                </p>
+                <div class="more-desc">
+                Master bedroom is taken on the front side with a balcony and big windows to capture the surrounding visual green inside the bedroom. Kids bedroom and kitchen plan on the rear side having a rear side setback cutout for natural light and ventilation. 
+                The building facade is designed as a contemporary modern touch with limited volumes visible from the streets.
 
-            <!-- Our Exceptional Solutions -->
+
+                    <ul>
+                        <li>Project Location - Ghaziabad</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
                     <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                        <img class="img-responsive" src="img/970x647/03.jpg" alt="Our Exceptional Solutions Image">
+                        <img class="img-responsive" src="img/970x647/06.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a href="#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna
-                    ut consequat siad esqudiat dolor</p>
-                <a class="link" href="#">Read More</a>
+                <h4><a>Jaypee Wishtown</a> <span class="text-uppercase margin-l-20">Noida</span></h4>
+                <p>
+                Civil Structure of the residential block has completed. The structure is broadly divided into 3 levels. The stilt floor is mainly for parking and the servant quarter. 
+                </p>
+                <div class="more-desc">
+                The upper ground floor planned separately with a common staircase. The front side of the first floor dedicated to a large drawing area with a double height space connecting the two-floor levels.
+                    <ul>
+                        <li>Project Location - Noida</li>
+                        <li>Project Scale - 4500 Sqft</li>
+                        <li>Project Type - Residential Interior Retrofitment</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <a class="link read-more">Read More</a>
             </div>
-            <!-- End Our Exceptional Solutions -->
+            <!-- End Projects -->
         </div>
         <!--// end row -->
     </div>
@@ -225,6 +289,7 @@
 
     <!-- PAGE LEVEL SCRIPTS -->
     <script src="js/layout.js" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
     <script src="js/components/wow.min.js" type="text/javascript"></script>
     <script src="js/components/swiper.min.js" type="text/javascript"></script>
 

@@ -187,7 +187,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img//icons/Icon-Architecture.png" class="service-icon adjust"></img>
+                                <img src="./img//icons/Icon-Architecture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Architectural Design</h3>
@@ -206,7 +206,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".2s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Construction.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Construction.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Construction Administration</h3>
@@ -225,7 +225,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Interior.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Interior.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Interior Design</h3>
@@ -247,7 +247,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Sustainable.png" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.png">
+                                <img src="./img/icons/Icon-Sustainable.jpg" class="service-icon adjust"></img src="./img/icons/Icon-Sustainable.jpg">
                             </div>
                             <div class="service-info">
                                 <h3>Sustainable Design</h3>
@@ -268,7 +268,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-furniture.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-furniture.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Furniture Design</h3>
@@ -290,7 +290,7 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".6s">
                         <div class="service" data-height="height">
                             <div class="service-element">
-                                <img src="./img/icons/Icon-Visual Merchandising.png" class="service-icon adjust"></img>
+                                <img src="./img/icons/Icon-Visual Merchandising.jpg" class="service-icon adjust"></img>
                             </div>
                             <div class="service-info">
                                 <h3>Commercial Visual Merchandising</h3>
@@ -336,7 +336,7 @@
                         Prashant holds a Bachelor of Architecture from the Faculty of Architecture & Ekistics, Jamia
                         Millia Islamia, New Delhi, is a licensed architect with the Council of Architecture India.
                     </p>
-                    <p id="more-desc-01">
+                    <p class="more-desc">
                         He has a strong interest in sustainability which reflects through his design. He is also
                         certified IGBC-AP.
                         Before founding the binary studio he practiced as an architect at the “Novarch Architects”, New
@@ -344,7 +344,7 @@
                         As a student, he won a design competition at Delhi Architecture festival in the commercial
                         category for the concept of his entry. (re-thinking the future)
                     </p>
-                    <a class="link" id="read-more-01">Read More</a>
+                    <a class="link read-more">Read More</a>
                 </div>
                 <!-- End Team -->
 
@@ -361,12 +361,12 @@
                         completing his degree in Architecture, Javed constantly working for 4 years on a wide range of
                         projects, including Residential, Commercial, Institutional Hospitality & Industrial.
                     </p>
-                    <p id="more-desc-02">
+                    <p class="more-desc">
                         Being specialized in residential and office space design he developed a keen interest in design
                         and detailing. He is a travel enthusiast and loves to explore and observe the surroundings in
                         his own unique way.
                     </p>
-                    <a class="link" id="read-more-02">Read More</a>
+                    <a class="link read-more">Read More</a>
                 </div>
                 <!-- End Team -->
 

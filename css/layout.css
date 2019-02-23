@@ -1570,3 +1570,12 @@ fieldset[disabled] .btn-theme {
 .height-400 {
   height: 400px !important;
 }
+
+div.more-desc {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Hind, sans-serif;
+  color: #a6a7aa;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}

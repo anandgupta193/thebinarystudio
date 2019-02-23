@@ -88,8 +88,8 @@
     <div class="parallax-window" data-parallax="scroll" data-image-src="img/1920x1080/01.jpg">
         <div class="parallax-content container">
             <h1 class="carousel-title">Contact Us</h1>
-            <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
-                venumus dolore</p>
+            <!-- <p>Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br /> enim minim estudiat veniam siad
+                venumus dolore</p> -->
         </div>
     </div>
     <!--========== PARALLAX ==========-->
@@ -102,9 +102,11 @@
                 <!-- Contact List -->
                 <div class="col-sm-4 sm-margin-b-50">
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h3><a href="#">Mumbai</a> <span class="text-uppercase margin-l-20">Head Office</span></h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor
-                            magna ut consequat siad esqudiat dolor</p>
+                        <h3><a>Mumbai</a> <span class="text-uppercase margin-l-20">Head Office</span></h3>
+                        <p>204, Building N0. 6, 
+                            Shree Shashwat Complex, Pleasant Park, Mira-Bhayander road
+                            Mira road, Thane-401107
+                            Maharashtra</p>
                         <ul class="list-unstyled contact-list">
                             <li><i class="margin-r-10 color-base icon-call-out"></i> +91-8130503799</li>
                             <li><i class="margin-r-10 color-base icon-envelope"></i> mail@thebinarystudio.com</li>
@@ -116,9 +118,8 @@
                 <!-- Contact List -->
                 <div class="col-sm-4 sm-margin-b-50">
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h3><a href="#">Noida</a> <span class="text-uppercase margin-l-20">Operation</span></h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor
-                            magna ut consequat siad esqudiat dolor</p>
+                        <h3><a>Noida</a> <span class="text-uppercase margin-l-20">Operation</span></h3>
+                        <p>2102 E Tower, Amrapali Sapphire, Sector 45 Noida-201301 Uttar Pradesh</p>
                         <ul class="list-unstyled contact-list">
                             <li><i class="margin-r-10 color-base icon-call-out"></i> +91-9643633485</li>
                             <li><i class="margin-r-10 color-base icon-envelope"></i> mail@thebinarystudio.com</li>
