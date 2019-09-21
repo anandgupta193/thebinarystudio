@@ -182,7 +182,7 @@
         </div>
         <!--// end row -->
 
-        <div class="row">
+        <div class="row margin-b-50">
             <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
@@ -260,7 +260,7 @@
         </div>
         <!--// end row -->
 
-        <div class="row">
+        <div class="row margin-b-50">
             <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
@@ -348,13 +348,13 @@
                         <li>Status - On Going</li>
                     </ul>
                 </div>
-<!--                 <a class="link read-more">Read More</a> -->
+            <!-- <a class="link read-more">Read More</a> -->
             </div>
             <!-- End Projects -->
         </div>
         <!--// end row -->
 
-        <div class="row">
+        <div class="row margin-b-50">
             <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">

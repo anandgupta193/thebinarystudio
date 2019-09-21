@@ -323,7 +323,7 @@
             </div>
             <!--// end row -->
 
-            <div class="row">
+            <div class="row margin-b-50">
                 <!-- Team -->
                 <div class="col-sm-4 sm-margin-b-50">
                     <div class="bg-color-white margin-b-20">
@@ -390,9 +390,8 @@
                 <!-- End Team -->
             </div>
             <!--// end row -->
-        </div>
 
-        <div class="row">
+            <div class="row margin-b-50">
                 <!-- Team -->
                 <div class="col-sm-4 sm-margin-b-50">
                     <div class="bg-color-white margin-b-20">
@@ -412,12 +411,15 @@
                         As a student, he won a design competition at Delhi Architecture festival in the commercial
                         category for the concept of his entry. (re-thinking the future)
                     </p>
-                   <!--  <a class="link read-more">Read More</a> -->
+                <!--  <a class="link read-more">Read More</a> -->
                 </div>
                 <!-- End Team -->
             </div>
             <!--// end row -->
         </div>
+    </div>
+
+        
     </div>
     <!-- End Team -->
     <!--========== END PAGE LAYOUT ==========-->

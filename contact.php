@@ -121,7 +121,7 @@
                         <h3><a>Noida</a> <span class="text-uppercase margin-l-20">Operation</span></h3>
                         <p>2102 E Tower, Amrapali Sapphire, Sector 45 Noida-201301 Uttar Pradesh</p>
                         <ul class="list-unstyled contact-list">
-                            <li><i class="margin-r-10 color-base icon-call-out"></i> +91-9643633485</li>
+                            <li><i class="margin-r-10 color-base icon-call-out"></i> +91-9653633485</li>
                             <li><i class="margin-r-10 color-base icon-envelope"></i> mail@thebinarystudio.com</li>
                         </ul>
                     </div>
