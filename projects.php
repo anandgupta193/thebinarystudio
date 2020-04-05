@@ -182,7 +182,7 @@
         </div>
         <!--// end row -->
 
-        <div class="row">
+        <div class="row margin-b-50">
             <!-- Projects -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
@@ -259,6 +259,380 @@
             <!-- End Projects -->
         </div>
         <!--// end row -->
+
+        <div class="row margin-b-50">
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/07.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Mr.Singh Residence</a> <span class="text-uppercase margin-l-20">Noida</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Cleo county, Noida</li>
+                        <li>Project Scale -  1800 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Built</li>
+                    </ul>
+                
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Cleo county, Sector 121,Noida</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/08.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Anurag Residence</a> <span class="text-uppercase margin-l-20">Noida</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Sec 51 Noida</li>
+                        <li>Project Scale - 2450 Sqft</li>
+                        <li>Project Type - Villa Interior Design</li>
+                        <li>Status - Built</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                Master bedroom is taken on the front side with a balcony and big windows to capture the surrounding visual green inside the bedroom. Kids bedroom and kitchen plan on the rear side having a rear side setback cutout for natural light and ventilation. 
+                The building facade is designed as a contemporary modern touch with limited volumes visible from the streets.
+
+
+                    <ul>
+                        <li>Project Location - Ghaziabad</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+               <!--  <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/09.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Himgiri Industry</a> <span class="text-uppercase margin-l-20">Himachal Pradesh</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Gwalthai, Himachal Pradesh</li>
+                        <li>Project Scale - 10800 Sqft</li>
+                        <li>Project Type - Industrial Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                The upper ground floor planned separately with a common staircase. The front side of the first floor dedicated to a large drawing area with a double height space connecting the two-floor levels.
+                    <ul>
+                        <li>Project Location - Noida</li>
+                        <li>Project Scale - 4500 Sqft</li>
+                        <li>Project Type - Residential Interior Retrofitment</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+            <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+        </div>
+        <!--// end row -->
+
+        <!--// start row -->
+        <div class="row margin-b-50">
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/10.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Mystical Bundle</a> <span class="text-uppercase margin-l-20">New Delhi</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Lado Sarai, Delhi</li>
+                        <li>Project Scale - 630 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Almora</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/11.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>PSP Food & Hospitality</a> <span class="text-uppercase margin-l-20">New Delhi</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - New Delhi</li>
+                        <li>Project Scale - 1500 Sqft</li>
+                        <li>Project Type - Commerical Interior Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                Master bedroom is taken on the front side with a balcony and big windows to capture the surrounding visual green inside the bedroom. Kids bedroom and kitchen plan on the rear side having a rear side setback cutout for natural light and ventilation. 
+                The building facade is designed as a contemporary modern touch with limited volumes visible from the streets.
+
+
+                    <ul>
+                        <li>Project Location - Ghaziabad</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/12.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Raahi Cafe & Resort</a> <span class="text-uppercase margin-l-20">Himachal</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Tirthan Valley</li>
+                        <li>Project Scale - 1 acre</li>
+                        <li>Project Type - Hospitality</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                Master bedroom is taken on the front side with a balcony and big windows to capture the surrounding visual green inside the bedroom. Kids bedroom and kitchen plan on the rear side having a rear side setback cutout for natural light and ventilation. 
+                The building facade is designed as a contemporary modern touch with limited volumes visible from the streets.
+
+
+                    <ul>
+                        <li>Project Location - Ghaziabad</li>
+                        <li>Project Scale - 3600 Sqft</li>
+                        <li>Project Type - Interior & Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+        </div>
+        <!--// end row -->
+
+        <!--// start row -->
+        <div class="row margin-b-50">
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/13.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Diagnostic Center</a> <span class="text-uppercase margin-l-20">Bihar</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Samastipur, Bihar</li>
+                        <li>Project Scale - 3400 Sqft</li>
+                        <li>Project Type - Mixed Used</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Almora</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/14.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Villa Landscape</a> <span class="text-uppercase margin-l-20">Nagaland</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Nagaland</li>
+                        <li>Project Scale - 19000 Sqft</li>
+                        <li>Project Type - Landscape Architecture</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Almora</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/15.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Crossing Republic</a> <span class="text-uppercase margin-l-20">Noida</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Noida</li>
+                        <li>Project Scale - 1250 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Almora</li>
+                        <li>Project Scale - 21780 Sqft</li>
+                        <li>Project Type - Architectural Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+        </div>
+        <!--// end row -->
+
+        <!--// start row -->
+        <div class="row margin-b-50">
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/16.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Kids Room</a> <span class="text-uppercase margin-l-20">New Delhi</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Jangpura</li>
+                        <li>Project Scale - 140 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Jangpura</li>
+                        <li>Project Scale - 140 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/17.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Hotel Suite Room</a> <span class="text-uppercase margin-l-20">Madhya Pradesh</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Khajuraho</li>
+                        <li>Project Scale - 400 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Jangpura</li>
+                        <li>Project Scale - 140 Sqft</li>
+                        <li>Project Type - Interior Design</li>
+                        <li>Status - Completed</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+
+            <!-- Projects -->
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                        <img class="img-responsive" src="img/970x647/18.jpg" alt="Projects Image">
+                    </div>
+                </div>
+                <h4><a>Main Gate Design</a> <span class="text-uppercase margin-l-20">Noida</span></h4>
+                <p>
+                    <ul>
+                        <li>Project Location - Sector 14 Noida</li>
+                        <li>Project Scale - 2450 Sqft</li>
+                        <li>Project Type - Landscape</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </p>
+                <div class="more-desc">
+                All the building block has placed on the different level and one of the building blocks has a steeply sloped roof matching with the natural slope of the land. which looks likes building block is emerging from the contour and that gives a feeling of a connection with nature.
+                    <ul>
+                        <li>Project Location - Sector 14 Noida</li>
+                        <li>Project Scale - 2450 Sqft</li>
+                        <li>Project Type - Landscape</li>
+                        <li>Status - On Going</li>
+                    </ul>
+                </div>
+                <!-- <a class="link read-more">Read More</a> -->
+            </div>
+            <!-- End Projects -->
+        </div>
+        <!--// end row -->
+
     </div>
     <!-- End Our Exceptional Solutions -->
 

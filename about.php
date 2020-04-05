@@ -323,7 +323,7 @@
             </div>
             <!--// end row -->
 
-            <div class="row">
+            <div class="row margin-b-50">
                 <!-- Team -->
                 <div class="col-sm-4 sm-margin-b-50">
                     <div class="bg-color-white margin-b-20">
@@ -371,21 +371,55 @@
                 <!-- End Team -->
 
                 <!-- Team -->
-                <!-- <div class="col-sm-4 sm-margin-b-50">
+                <div class="col-sm-4 sm-margin-b-50">
                     <div class="bg-color-white margin-b-20">
                         <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="img-responsive" src="img/770x860/03.jpg" alt="Team Image">
+                            <img class="img-responsive" style="height: 403px;" src="img/770x860/03.jpg" alt="Team Image">
                         </div>
                     </div>
-                    <h4><a href="#">Scarlet Johanson</a> <span class="text-uppercase margin-l-20">Designer</span></h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor
-                        magna ut consequat siad esqudiat dolor</p> -->
-                <!-- <a class="link" href="#">Read More</a> -->
-                <!-- </div> -->
+                    <h4><a href="#">Shayan Alam</a> <span class="text-uppercase margin-l-20">Architect</span></h4>
+                    <p>
+                        Shayan Alam is an enterprise architect who has worked within various defined segments.
+                        He has experience in the domain of healthcare, education, and landscaping.
+                    </p>
+                    <p class="more-desc">
+                         He's also experienced in infrastructure management and site execution with passion for designing. He has super headed various projects of high value. Shayan loves to combine his artistic talents with his technical skills to create beautiful and practical designs for clients.
+                    </p>
+                    <a class="link read-more">Read More</a>
+                </div>
+                <!-- End Team -->
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-50">
+                <!-- Team -->
+                <div class="col-sm-4 sm-margin-b-50">
+                    <div class="bg-color-white margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                            <img class="img-responsive" style="height: 403px;" src="img/770x860/04.jpg" alt="Team Image">
+                        </div>
+                    </div>
+                    <h4><a href="#">Mohd Anas</a> <span class="text-uppercase margin-l-20">Visualiser</span></h4>
+                    <p>
+                        Anas is associated with tbs as designer and suprvising all the visualisation work.
+                    </p>
+                    <p class="more-desc">
+                        He has a strong interest in sustainability which reflects through his design. He is also
+                        certified IGBC-AP.
+                        Before founding the binary studio he practiced as an architect at the “Novarch Architects”, New
+                        Delhi & “Matrika Design collaborative”, Mumbai.
+                        As a student, he won a design competition at Delhi Architecture festival in the commercial
+                        category for the concept of his entry. (re-thinking the future)
+                    </p>
+                <!--  <a class="link read-more">Read More</a> -->
+                </div>
                 <!-- End Team -->
             </div>
             <!--// end row -->
         </div>
+    </div>
+
+        
     </div>
     <!-- End Team -->
     <!--========== END PAGE LAYOUT ==========-->
