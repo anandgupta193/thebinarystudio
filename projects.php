@@ -424,10 +424,10 @@
                         <img class="img-responsive" src="img/970x647/12.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a>Raahi cafe & Resort</a> <span class="text-uppercase margin-l-20">Himachal Pradesh</span></h4>
+                <h4><a>Raahi Cafe & Resort</a> <span class="text-uppercase margin-l-20">Himachal</span></h4>
                 <p>
                     <ul>
-                        <li>Project Location - Tirthan Valley, Himachal Pradesh</li>
+                        <li>Project Location - Tirthan Valley</li>
                         <li>Project Scale - 1 acre</li>
                         <li>Project Type - Hospitality</li>
                         <li>Status - Completed</li>
@@ -460,7 +460,7 @@
                         <img class="img-responsive" src="img/970x647/13.jpg" alt="Projects Image">
                     </div>
                 </div>
-                <h4><a>Diagnostic center + Residence</a> <span class="text-uppercase margin-l-20">Bihar</span></h4>
+                <h4><a>Diagnostic Center</a> <span class="text-uppercase margin-l-20">Bihar</span></h4>
                 <p>
                     <ul>
                         <li>Project Location - Samastipur, Bihar</li>
